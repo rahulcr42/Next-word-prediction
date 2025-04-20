@@ -28,7 +28,13 @@ The Next-word-prediction project uses a trained machine learning model to predic
 
 To install and run this project locally, follow the steps below:
 
-1. Clone the repository:
+ Clone the repository:
    ```bash
    git clone https://github.com/rahulcr42/Next-word-prediction.git
    cd Next-word-prediction
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
